@@ -1,0 +1,1 @@
+# Bootstrap kütüphanesi kullanılarak tasarlandı.
